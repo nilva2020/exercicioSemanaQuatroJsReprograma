@@ -33,7 +33,7 @@
 *Uso do console.log ✔
  
 
-<img align="right" alt="GIF" src="https://imgbb.com/"><img src="https://i.ibb.co/kSq7mGN/code-breaker-puzzle.gif" alt="gif" width="400px"/>
+<img align="right" src="https://i.ibb.co/kSq7mGN/code-breaker-puzzle.gif" alt="gif" width="400px"/>
 
 
 ** ⭐Linguagens e ferramentas:**  
